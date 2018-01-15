@@ -1,5 +1,5 @@
 # MoreColors
-Expand your Java Colors with more colors from diffrent palettes 🖌️
+Expand your Java Colors with more colors from different palettes 🖌️
 
 ## Current palettes
 ### Material
