@@ -1,4 +1,4 @@
-package me.lesh.Color;
+package me.lesh.color;
 
 import java.awt.*;
 
