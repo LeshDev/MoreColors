@@ -1,8 +1,8 @@
 # MoreColors
 Expand your Java Colors with more colors from diffrent palettes 🖌️
 
-##Current palettes
-###Material
+## Current palettes
+### Material
 - Amber
 - Blue
 - BlueGrey
@@ -23,5 +23,5 @@ Expand your Java Colors with more colors from diffrent palettes 🖌️
 - Teal
 - Yellow
 
-#How to use
+# How to use
 Whenever you have to use Colors in your programm all you have to do is type `me.lesh.morecolors.red.r500` for example
