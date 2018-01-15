@@ -4,7 +4,6 @@ import java.awt.*;
 
 public class White {
 
-
-    public final static Color black = new Color(255,255,255);
+    public final static Color white = new Color(255,255,255);
 
 }
