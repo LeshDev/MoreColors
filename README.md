@@ -1,4 +1,5 @@
 # MoreColors
+[![Github All Releases](https://img.shields.io/github/downloads/leshdev/morecolors/total.svg)]()
 Expand your Java Colors with more colors from different palettes 🖌️
 
 ## Current palettes
